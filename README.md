@@ -5,4 +5,4 @@ Repositório de receitas criado para prática do curso Introdução ao Git e ao 
 ### Receitas
 
 - [Strogonoff de Frango](./receitas/strogonoff.md)
-- [Pavê de Chocolate]()
+- [Pavê de Chocolate](./receitas/pave_chocolate.md)
